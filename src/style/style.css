@@ -1,0 +1,12 @@
+@font-face{
+	src : "../vidaloka.otf";
+	font-family:"vidaloka";
+}
+
+* {
+	font-family: "vidaloka";
+} 
+
+.slick-prev:before, .slick-next:before {
+	color: black;
+}
