@@ -11,6 +11,11 @@ window.jQuery = $;
 window.$ = $;
 import boostrap from 'bootstrap'
 
+import './src/img/banner1.jpg';
+import './src/img/banner2.jpg';
+import './src/img/banner3.jpg';
+import './src/img/favicon.png';
+
 import './src/script/component/navbar.js';
 import './src/script/component/about.js';
 import './src/script/component/carousel.js';

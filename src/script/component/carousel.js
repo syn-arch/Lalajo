@@ -12,19 +12,19 @@ class Carousel extends HTMLElement {
 		</ol>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="src/img/banner1.jpg" class="d-block w-100" alt="...">
+				<img src="assets/images/banner1.jpg" class="d-block w-100" alt="...">
 				<div class="carousel-caption d-none d-md-block">
 					<h5>World War Z</h5>
 				</div>
 			</div>
 			<div class="carousel-item">
-				<img src="src/img/banner2.jpg" class="d-block w-100" alt="...">
+				<img src="assets/images/banner2.jpg" class="d-block w-100" alt="...">
 				<div class="carousel-caption d-none d-md-block">
 					<h5>Gangster Squad</h5>
 				</div>
 			</div>
 			<div class="carousel-item">
-				<img src="src/img/banner3.jpg" class="d-block w-100" alt="...">
+				<img src="assets/images/banner3.jpg" class="d-block w-100" alt="...">
 				<div class="carousel-caption d-none d-md-block">
 					<h5>Marvel: The Avengers</h5>
 				</div>
